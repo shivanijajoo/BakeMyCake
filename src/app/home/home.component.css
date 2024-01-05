@@ -1,0 +1,16 @@
+.container {
+  max-width: 90%;
+  margin: 3rem auto;
+}
+
+#item-cards {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+}
+
+.item-card {
+  max-width: 23%;
+  margin: 0.5rem 0.5rem;
+}
+
